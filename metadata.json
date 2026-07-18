@@ -1,0 +1,6 @@
+{
+  "name": "SyllabusTrack",
+  "description": "AI-Powered Exam Syllabus Tracker to organize and complete your exam preparations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
